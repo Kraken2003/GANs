@@ -1,0 +1,3 @@
+This is an implementation of DCGAN on an Anime Face dataset sourced from kaggle
+
+I have compiled the model for 25 epochs and have created a video using opencv to showcase the progress of the GAN
